@@ -1,0 +1,6 @@
+#!/bin/sh
+
+date +"%H:%M:%S %A %d-%m-%y Quarter: %q"
+uptime --pretty
+echo " "
+who
